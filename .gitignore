@@ -1,0 +1,6 @@
+# Go
+bin/
+*.log
+.env
+.idea/
+.vscode/
